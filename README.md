@@ -28,4 +28,9 @@ Description: Calculates the result using a recursive power function
 REVERSE.C
 --
 
-Reads a string from the user and prints it in reverse order using recursion
+Description: Reads a string from the user and prints it in reverse order using recursion
+
+STRLEN.C
+--
+
+Description: Counts the number of characters in a string recursively
