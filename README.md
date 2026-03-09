@@ -18,6 +18,10 @@ LST2STR.C
 --
 Description: Converts an array of integers (input by user) into a space-separated string format
 
+MAXIMUM.C
+--
+Description: Finds the maximum element in a list of integers using recursion 
+
 PDROME.C
 --
 Description: Palindrome checking via recursion
